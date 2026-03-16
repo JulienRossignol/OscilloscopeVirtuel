@@ -1,8 +1,5 @@
-# OscilloscopeVirtuel
-Oscilloscope virtuel 
-
+# Oscilloscope virtuel
 Ce dépot contient les plus récents gabarits et exemples de circuits de l'*Oscilloscope Virtuel*.
-
 
 L’*Oscilloscope virtuel* est un outil pouvant être intégré à une page Web pour permettre de faire des mesures sur le schéma de circuits électriques pour des laboratoires, des exercices ou des évaluations. Il permet de concevoir une multitude de formations interactives, d’exercices et d’évaluations incluant une mesure sur un circuit en offrant un accès en tout temps à toutes les personnes étudiantes.
 Le développement de l’*Oscilloscope virtuel* a été financé en 2025-2026 par le fonds de soutien permanent de la fabriqueREL. 
