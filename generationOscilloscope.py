@@ -5,6 +5,8 @@ from pathlib import Path
 import pandas as pd
 import numpy as np
 
+#Code python pour générer le code html de l'oscilloscope virtuel
+#Par Julien Rosssignol
 #Requis pandas, numpy and pyxlsb
 
 def generateScope(filepath, scale, colors, textStyle, applet):
