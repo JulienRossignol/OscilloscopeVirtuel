@@ -6,8 +6,9 @@ import pandas as pd
 import numpy as np
 
 #Code python pour générer le code html de l'oscilloscope virtuel
+#Sous license CC BY-SA 4.0 international
 #Par Julien Rosssignol
-#Requis pandas, numpy and pyxlsb
+#Requis: pandas, numpy and pyxlsb
 
 def generateScope(filepath, scale, colors, textStyle, applet):
     if(not filepath.exists()):
